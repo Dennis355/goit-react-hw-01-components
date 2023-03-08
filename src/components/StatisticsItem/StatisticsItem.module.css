@@ -1,0 +1,41 @@
+.item {
+
+    width:60px;
+     padding-left: 10px;
+    padding-right:10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    outline: solid grey 1px ;
+
+background-color: #ccc;
+font-size: 20px;
+
+
+justify-items: stretch;
+align-items: center;
+  }
+  
+  .label {
+
+    font-size: 26px;
+    margin-right: 10px;
+    text-align: center;
+    display: flex; 
+
+    justify-items: stretch;
+    align-items: center;
+  
+  }
+  
+  .percentage {
+  
+
+
+    margin-top: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    text-align: center;
+    
+  }
