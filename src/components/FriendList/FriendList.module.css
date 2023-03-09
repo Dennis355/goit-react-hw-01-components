@@ -1,9 +1,9 @@
-.friend_list{
-    height: min-content;
-   list-style: none;
-    margin: 0;
-    padding: 0;
-    margin-left: auto;
-    margin-right: auto;
-    width: 450px;
+.friend_list {
+  height: min-content;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  margin-left: auto;
+  margin-right: auto;
+  width: 450px;
 }

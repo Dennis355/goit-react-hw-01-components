@@ -1,0 +1,13 @@
+.transaction_tr {
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: #999;
+}
+.transaction_tr:nth-child(2n) {
+  background-color: #e6f0f5;
+}
+.transaction_td {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}

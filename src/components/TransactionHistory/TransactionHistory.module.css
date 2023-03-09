@@ -1,14 +1,12 @@
-.transaction_history{
-    height: min-content;
-    width: min-content;
-    margin-left: auto;
-    margin-right: auto;
-    width: 650px;
+.transaction_history {
+  height: min-content;
+  width: min-content;
+  margin-left: auto;
+  margin-right: auto;
+  width: 650px;
+}
+.transaction_tablehead {
+  background-color: rgb(68, 182, 174);
+  height: 50px;
 
 }
-.transaction_tablehead{
-    background-color: rgb(68, 182, 174);
-    height: 50px ;
-    /* outline: solid 2px tomato; */
-}
-    
